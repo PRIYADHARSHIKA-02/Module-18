@@ -1,4 +1,4 @@
-# Experiment 12(c): Dijkstra's Algorithm
+# Experiment 12(b): Dijkstra's Algorithm
 
 ## Aim
 To write a Python program for Dijkstra's single-source shortest path algorithm.
