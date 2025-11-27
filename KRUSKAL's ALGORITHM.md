@@ -1,4 +1,4 @@
-# Experiment 12(b): Kruskal's Algorithm
+# Experiment 12(c): Kruskal's Algorithm
 
 ## Aim
 To write a Python program for Kruskal's algorithm to find the Minimum Spanning Tree (MST) of a given connected, undirected, and weighted graph.
