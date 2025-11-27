@@ -1,4 +1,4 @@
-# Experiment 12(a): Prim's Minimum Spanning Tree (MST)
+# Experiment 18d): Prim's Minimum Spanning Tree (MST)
 
 ## Aim
 To write a Python program for Prim's Minimum Spanning Tree (MST) algorithm.
