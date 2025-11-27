@@ -1,4 +1,4 @@
-# Experiment 12(d): Travelling Salesman Problem (TSP)
+# Experiment 18(d): Travelling Salesman Problem (TSP)
 
 ## Aim
 To write a Python program to find the shortest possible route that visits every city exactly once and returns to the starting point using the Travelling Salesman Problem (TSP) approach.
